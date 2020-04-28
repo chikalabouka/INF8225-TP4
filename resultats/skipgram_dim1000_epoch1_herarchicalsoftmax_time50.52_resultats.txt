@@ -1,0 +1,35 @@
+Loading model from file skipgram_dim1000_epoch1_herarchicalsoftmax_time50.52.txt
+
+**********************
+10 most probable words for the vector woman - Queen + man
+
+Elizabeth: 0.6378
+Valdemar: 0.5808
+Lady: 0.5628
+VI: 0.5617
+Duke: 0.5521
+Prince: 0.5438
+VII: 0.5430
+daughter: 0.5409
+consort: 0.5408
+prince: 0.5343
+
+**********************
+10 most probable words for the vector France - Italy + Paris
+
+Naples: 0.4679
+Guise: 0.4604
+Havre: 0.4500
+Vienna: 0.4483
+Albornoz: 0.4463
+Vincennes: 0.4434
+Normandy: 0.4282
+Nassau: 0.4265
+Bordeaux: 0.4230
+Florence: 0.4208
+
+semantic accuracy: 0.04204668418611841
+syntactic accuracy: 0.1366656444853317
+
+PCA saved to pca.png
+words associations saved to words_associations.png

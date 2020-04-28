@@ -1,0 +1,36 @@
+Loading model from file cbow_dim1000_epoch3_hiersoftmax.txt
+
+**********************
+10 most probable words for the vector woman - Queen + man
+
+Lady: 0.5144
+Tsar: 0.4827
+captain: 0.4808
+princess: 0.4797
+daughter: 0.4778
+Archbishop: 0.4750
+duke: 0.4737
+Bishop: 0.4687
+founder: 0.4670
+king: 0.4600
+
+**********************
+10 most probable words for the vector France - Italy + Paris
+
+Zurich: 0.5764
+Naples: 0.5735
+Vienna: 0.5691
+anticipation: 0.5566
+honour: 0.5513
+honor: 0.5501
+spite: 0.5439
+Antioch: 0.5421
+perpetuity: 0.5390
+Sicily: 0.5386
+
+semantic accuracy: 0.025660844025351678
+syntactic accuracy: 0.10957783910865787
+
+PCA saved to pca.png
+words associations saved to words_associations.png
+

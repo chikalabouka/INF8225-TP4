@@ -1,0 +1,35 @@
+Loading model from file cbow_dim1000_epoch3_negSampling5_time31.34.txt
+
+**********************
+10 most probable words for the vector woman - queen + man
+
+Bishop: 0.7994
+king: 0.7979
+Pope: 0.7971
+ruler: 0.7914
+Lord: 0.7888
+Prince: 0.7816
+Lady: 0.7777
+King: 0.7756
+Emperor: 0.7716
+daughter: 0.7682
+
+**********************
+10 most probable words for the vector france - italy + paris
+
+Rome: 0.8221
+Russia: 0.7988
+Scotland: 0.7929
+Sweden: 0.7852
+England: 0.7842
+Austria: 0.7793
+Denmark: 0.7790
+Jerusalem: 0.7762
+Spain: 0.7627
+favour: 0.7589
+
+semantic accuracy: 0.023032926263719278
+syntactic accuracy: 0.08790759480731881
+
+PCA saved to pca.png
+words associations saved to words_associations.png

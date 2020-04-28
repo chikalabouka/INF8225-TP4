@@ -1,0 +1,35 @@
+Loading model from file cbow_dim1000_epoch1_negSampling5_time10.69.txt
+
+**********************
+10 most probable words for the vector woman - Queen + man
+
+Lady: 0.9477
+Chief: 0.9446
+Defense: 0.9400
+Director: 0.9385
+commander: 0.9367
+Revolution: 0.9322
+Period: 0.9309
+Administration: 0.9307
+Saint: 0.9233
+Cold: 0.9226
+
+**********************
+10 most probable words for the vector France - Italy + Paris
+
+Scotland: 0.8914
+honor: 0.8885
+Communism: 0.8872
+Kedah: 0.8851
+Sicily: 0.8845
+Rome: 0.8765
+Russia: 0.8750
+politics: 0.8745
+exile: 0.8716
+China: 0.8684
+
+semantic accuracy: 0.01298500541041892
+syntactic accuracy: 0.015946028825513645
+
+PCA saved to pca.png
+words associations saved to words_associations.png

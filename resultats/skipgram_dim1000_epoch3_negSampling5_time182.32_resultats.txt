@@ -1,0 +1,36 @@
+Loading model from file skipgram_dim1000_epoch3_negSampling5.txt
+
+**********************
+10 most probable words for the vector woman - Queen + man
+
+consort: 0.7191
+Tsar: 0.7105
+Augustus: 0.7050
+Elector: 0.6937
+Count: 0.6921
+Countess: 0.6912
+Princess: 0.6906
+duke: 0.6884
+VI: 0.6864
+princess: 0.6850
+
+**********************
+10 most probable words for the vector France - Italy + Paris
+
+Naples: 0.6856
+Vienna: 0.6788
+Carver: 0.6619
+Philadelphia: 0.6601
+Hoover: 0.6565
+Cemetery: 0.6563
+Madrid: 0.6531
+Hesse: 0.6482
+Douglass: 0.6482
+Garcia: 0.6475
+
+semantic accuracy: 0.03910959962899985
+syntactic accuracy: 0.15792701625268324
+
+PCA saved to pca.png
+words associations saved to words_associations.png
+

@@ -1,0 +1,35 @@
+Loading model from file skipgram_dim1000_epoch1_negSampling5_time36.32.txt
+
+**********************
+10 most probable words for the vector woman - Queen + man
+
+Elizabeth: 0.9181
+Pope: 0.9164
+Prince: 0.9154
+Emperor: 0.9140
+Augustus: 0.9087
+Lady: 0.9086
+VI: 0.9076
+youngest: 0.9018
+Bishop: 0.8993
+IV: 0.8972
+
+**********************
+10 most probable words for the vector France - Italy + Paris
+
+August: 0.8994
+November: 0.8994
+England: 0.8984
+Sweden: 0.8966
+Boston: 0.8950
+Washington: 0.8935
+September: 0.8926
+June: 0.8915
+February: 0.8912
+March: 0.8912
+
+semantic accuracy: 0.02581542742309476
+syntactic accuracy: 0.06409076970254524
+
+PCA saved to pca.png
+words associations saved to words_associations.png

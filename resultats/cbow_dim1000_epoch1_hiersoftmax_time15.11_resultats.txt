@@ -1,0 +1,35 @@
+Loading model from file cbow_dim1000_epoch1_herarchicalsoftmax_time15.11.txt
+
+**********************
+10 most probable words for the vector woman - Queen + man
+
+ruler: 0.7105
+dynasty: 0.7105
+incarnation: 0.7040
+Canterbury: 0.6956
+appointment: 0.6932
+king: 0.6891
+founder: 0.6772
+initiator: 0.6728
+Battle: 0.6717
+Clairvaux: 0.6626
+
+**********************
+10 most probable words for the vector France - Italy + Paris
+
+honor: 0.7229
+favour: 0.7112
+Austria: 0.6851
+exile: 0.6768
+Rome: 0.6725
+antiquity: 0.6612
+Naples: 0.6604
+Vienna: 0.6603
+honour: 0.6595
+Sweden: 0.6584
+
+semantic accuracy: 0.01808625753594064
+syntactic accuracy: 0.04405601553715629
+
+PCA saved to pca.png
+words associations saved to words_associations.png 

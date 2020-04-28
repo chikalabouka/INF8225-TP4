@@ -1,0 +1,36 @@
+Loading model from file skipgram_dim1000_epoch3_hiersoftmax.txt
+
+**********************
+10 most probable words for the vector woman - Queen + man
+
+Majesty: 0.4055
+Elizabeth: 0.3997
+consort: 0.3966
+Jelena: 0.3713
+Parr: 0.3617
+Aragon: 0.3564
+daughter: 0.3525
+Elisabeth: 0.3520
+Anjou: 0.3504
+Isabella: 0.3475
+
+**********************
+10 most probable words for the vector France - Italy + Paris
+
+Bordeaux: 0.3490
+Alenio: 0.3353
+Italien: 0.3264
+Venice: 0.3144
+Matisse: 0.3078
+Barrameda: 0.3078
+Beinn: 0.3022
+Cimetière: 0.3012
+Gaulle: 0.3003
+Jeunet: 0.2997
+
+semantic accuracy: 0.04096460040191684
+syntactic accuracy: 0.15618930798323621
+
+PCA saved to pca.png
+words associations saved to words_associations.png
+
