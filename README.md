@@ -34,7 +34,34 @@ optional arguments:
 
 ## Evaluation
 We used this implementation for testing the approch of the two research papers on smaller training sets and with the minumum of epochs possible to obtain an acceptable result. We decided to train on 16 millions wikipedia words rather than 15 billions and we stopped in 3 epochs for the algorithms. Here are our results :
+|    1 epoch CBOW     |Semantic accuracy|Syntactic accuracy| Total accuracy  |   Training time (min) |
+|---------------------|-----------------|------------------|-----------------|-----------------|
+| Negative sampling 5 |     0.01298     |     0.01594      |                 | 10.69
+| Hierarchical Softmax|     0.01808     |     0.04405      |                 | 15.11
 
+    ---------------------------------------------------------------------------------
+
+
+|    3 epochs CBOW    |Semantic accuracy|Syntactic accuracy| Total accuracy  |   Training time (min) | 
+|---------------------|-----------------|------------------|-----------------|-----------------|
+| Negative sampling 5 |     0.02303     |    0.08790       |                 |31.34
+| Hierarchical Softmax|     0.02566     |    0.10957       |                 |44.75
+
+    ----------------------------------------------------------------------------------
+
+
+|  1 epoch Skip-Gram  |Semantic accuracy|Syntactic accuracy| Total accuracy  |    Training time (min) | 
+|---------------------|-----------------|------------------|-----------------|-----------------|
+| Negative sampling 5 |     0.02581     |    0.06409       |                 |36.32
+| Hierarchical Softmax|     0.04204     |    0.13666       |                 |50.52
+
+    ----------------------------------------------------------------------------------
+
+
+| 3 epochs Skip-Gram  |Semantic accuracy|Syntactic accuracy| Total accuracy  |    Training time (min) | 
+|---------------------|-----------------|------------------|-----------------|-----------------|
+| Negative sampling 5 |                 |                  |                 |
+| Hierarchical Softmax|                 |                  |                 |
 
 ## References
 Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013a). Distributed representations of words and phrases and their compositionality. Advances in Neural Information Processing Systems. http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
