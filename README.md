@@ -1,5 +1,5 @@
 # INF8225-TP4
-A word2vec implementation in python of the Continuous Bag of Words (CBOW) and Skip-gram neural network architectures using Hierarchical Softmax and Negative Sampling learning algorithms for efficient learning of word vectors (Mikolov, et al., 2013a, b, c; http://code.google.com/p/word2vec/).
+A word2vec implementation in python of the Continuous Bag of Words (CBOW) and Skip-gram neural network architectures using Hierarchical Softmax and Negative Sampling for efficient learning of word vectors (Mikolov, et al., 2013a, b, c; http://code.google.com/p/word2vec/).
 
 ## Usage
 - Install python 3.6 or higher and install dependencies from requirements.txt
