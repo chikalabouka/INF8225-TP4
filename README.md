@@ -1,2 +1,2 @@
 # INF8225-TP4
-word2vec with cbow and skipgrams models using hierarchical softmax and negative sampling
+A word2vec implementation with cbow model and skipgrams model for computing continuous vector representations of words from very large data sets using hierarchical softmax and negative sampling. 
