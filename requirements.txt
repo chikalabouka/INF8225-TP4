@@ -69,7 +69,7 @@ pytz==2018.3
 pyxdg==0.25
 PyYAML==5.3
 regex==2020.4.4
-reportlab==3.4.0
+reportlab==3.5.55
 requests==2.23.0
 requests-unixsocket==0.1.5
 rope==0.16.0
